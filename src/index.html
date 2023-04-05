@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Silver Screens + Shows | Home</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <script src="js/main.js" type="module"></script>
+  </head>
+
+  <body>
+    <header class="divider" id="main-header"></header>
+    <main class="divider">
+      <div class="hero">
+        <img
+          src="/images/banner.jpg"
+          alt="image of a couple watching TV"
+        />
+      </div>
+      <section class="mission">
+        <p>It feels like, these days, there are way too many movies and tv shows coming out.</p>
+        <p>It can feel very overwhelming! Most people get discouraged, and end up watching the same thing they have watched a million times.</p>
+        <p>
+          Here, you can find some of the best quality movies and tv shows out there! Our
+          mission is to provide you with great recommendations and a way to remember which ones you want to watch.
+        </p>
+      </section>
+      <div id="carousels">
+      <div class="movieCarousel">
+        <div class="mySlides fade">
+          <div class="numberText">1/10</div>
+          <a href="topTen/index.html?entertainment=movies#firstMovie">
+            <img src="images/movies/TOG/TOG Poster.jpg" alt="The Other Guys" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlides fade">
+          <div class="numberText">2/10</div>
+          <a href="topTen/index.html?entertainment=movies#thirdMovie">
+            <img src="images/movies/TDK/TDK Poster.jpg" alt="The Dark Knight" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlides fade">
+          <div class="numberText">3/10</div>
+          <a href="topTen/index.html?entertainment=movies#fourthMovie">
+            <img src="images/movies/KO/KO Poster.jpg" alt="Knives Out" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlides fade">
+          <div class="numberText">4/10</div>
+          <a href="topTen/index.html?entertainment=movies#fifthMovie">
+            <img src="images/movies/GO/GO Poster.jpg" alt="Get Out" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlides fade">
+          <div class="numberText">5/10</div>
+          <a href="topTen/index.html?entertainment=movies#sixthMovie">
+            <img src="images/movies/In/In Poster.jpg" alt="Inception" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlides fade">
+          <div class="numberText">6/10</div>
+          <a href="topTen/index.html?entertainment=movies#seventhMovie">
+            <img src="images/movies/MIF/MIF Poster.jpg" alt="Mission Impossible: Fallout" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlides fade">
+          <div class="numberText">7/10</div>
+          <a href="topTen/index.html?entertainment=movies#eighthMovie">
+            <img src="images/movies/HR/HR Poster.jpg" alt="Hot Rod" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlides fade">
+          <div class="numberText">8/10</div>
+          <a href="topTen/index.html?entertainment=movies#ninthMovie">
+            <img src="images/movies/RTT/RTT Poster.jpg" alt="Remember The Titans" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlides fade">
+          <div class="numberText">9/10</div>
+          <a href="topTen/index.html?entertainment=movies#tenthMovie">
+            <img src="images/movies/DIRL/DIRL Poster.jpg" alt="Dan In Real Life" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlides fade">
+          <div class="numberText">10/10</div>
+          <a href="topTen/index.html?entertainment=movies">
+            <img src="images/movies/Me/Me Poster.jpg" alt="Megamind" style="width:100%">
+          </a>
+        </div>
+        <a class="prev" onclick="plusSlides(-1)">❮</a>
+        <a class="next" onclick="plusSlides(1)">❯</a>
+        <br>
+      <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span> 
+        <span class="dot" onclick="currentSlide(2)"></span> 
+        <span class="dot" onclick="currentSlide(3)"></span> 
+        <span class="dot" onclick="currentSlide(4)"></span> 
+        <span class="dot" onclick="currentSlide(5)"></span> 
+        <span class="dot" onclick="currentSlide(6)"></span>
+        <span class="dot" onclick="currentSlide(7)"></span> 
+        <span class="dot" onclick="currentSlide(8)"></span> 
+        <span class="dot" onclick="currentSlide(9)"></span>
+        <span class="dot" onclick="currentSlide(10)"></span>
+      </div>
+      <a href="topTen/index.html?entertainment=movies"><h3>My Top 10 Movies</h3></a>
+      </div>
+      
+      <script>
+        var slideIndex = 1;
+        showSlides(slideIndex);
+        function plusSlides(n) {
+          showSlides(slideIndex += n);
+        }
+        function currentSlide(n) {
+          showSlides(slideIndex = n);
+        }
+        function showSlides(n) {
+          var i;
+          var slides = document.getElementsByClassName("mySlides");
+          var dots = document.getElementsByClassName("dot");
+          if (n > slides.length) {
+            slideIndex = 1;
+          }
+          if (n < 1) {
+            slideIndex = slides.length;
+          }
+          for (i=0; i<slides.length; i++) {
+            slides[i].style.display = "none";
+          }
+          for (i=0; i<dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" active","");
+          }
+          slides[slideIndex - 1].style.display = "block";
+          dots[slideIndex - 1].className += " active";
+        }
+      </script>
+      <div class="showCarousel">
+        <div class="mySlidesShow fadeShow">
+          <div class="numberTextShow">1/10</div>
+          <a href="topTen/index.html?entertainment=shows#firstShow">
+            <img src="images/shows/BCS/BCS.jpg" alt="Better Call Saul" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlidesShow fadeShow">
+          <div class="numberTextShow">2/10</div>
+          <a href="topTen/index.html?entertainment=shows#thirdShow">
+            <img src="images/shows/BB/BB.jpg" alt="Breaking Bad" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlidesShow fadeShow">
+          <div class="numberTextShow">3/10</div>
+          <a href="topTen/index.html?entertainment=shows#fourthShow">
+            <img src="images/shows/MR/MR.jpg" alt="Mr. Robot" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlidesShow fadeShow">
+          <div class="numberTextShow">4/10</div>
+          <a href="topTen/index.html?entertainment=shows#fifthShow">
+            <img src="images/shows/ITYSL/ITYSL.jpg" alt="I Think You Should Leave" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlidesShow fadeShow">
+          <div class="numberTextShow">5/10</div>
+          <a href="topTen/index.html?entertainment=shows#sixthShow">
+            <img src="images/shows/TO/TO.jpg" alt="The Office" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlidesShow fadeShow">
+          <div class="numberTextShow">6/10</div>
+          <a href="topTen/index.html?entertainment=shows#seventhShow">
+            <img src="images/shows/ST/ST.jpg" alt="Stranger Things" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlidesShow fadeShow">
+          <div class="numberTextShow">7/10</div>
+          <a href="topTen/index.html?entertainment=shows#eighthShow">
+            <img src="images/shows/Lo/Lo.jpg" alt="Lost" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlidesShow fadeShow">
+          <div class="numberTextShow">8/10</div>
+          <a href="topTen/index.html?entertainment=shows#ninthShow">
+            <img src="images/shows/TL/TL.jpg" alt="Ted Lasso" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlidesShow fadeShow">
+          <div class="numberTextShow">9/10</div>
+          <a href="topTen/index.html?entertainment=shows#tenthShow">
+            <img src="images/shows/DD/DD.jpg" alt="Daredevil" style="width:100%">
+          </a>
+        </div>
+        <div class="mySlidesShow fadeShow">
+          <div class="numberTextShow">10/10</div>
+          <a href="topTen/index.html?entertainment=shows">
+            <img src="images/shows/Sh/Sh.jpg" alt="Sherlock" style="width:100%">
+          </a>
+        </div>
+        <a class="prevShow" onclick="plusSlidesShow(-1)">❮</a>
+        <a class="nextShow" onclick="plusSlidesShow(1)">❯</a>
+        <br>
+        <div style="text-align:center">
+          <span class="dotShow" onclick="currentSlideShow(1)"></span> 
+          <span class="dotShow" onclick="currentSlideShow(2)"></span> 
+          <span class="dotShow" onclick="currentSlideShow(3)"></span> 
+          <span class="dotShow" onclick="currentSlideShow(4)"></span> 
+          <span class="dotShow" onclick="currentSlideShow(5)"></span> 
+          <span class="dotShow" onclick="currentSlideShow(6)"></span>
+          <span class="dotShow" onclick="currentSlideShow(7)"></span> 
+          <span class="dotShow" onclick="currentSlideShow(8)"></span> 
+          <span class="dotShow" onclick="currentSlideShow(9)"></span>
+          <span class="dotShow" onclick="currentSlideShow(10)"></span>
+        </div>
+        <a href="topTen/index.html?entertainment=shows"><h3>My Top 10 Shows</h3></a>
+      </div>
+      
+      
+      <script>
+        var slideIndex = 1;
+        showSlidesShow(slideIndex);
+        function plusSlidesShow(n) {
+          showSlidesShow(slideIndex += n);
+        }
+        function currentSlideShow(n) {
+          showSlidesShow(slideIndex = n);
+        }
+        function showSlidesShow(n) {
+          var i;
+          var slides = document.getElementsByClassName("mySlidesShow");
+          var dots = document.getElementsByClassName("dotShow");
+          if (n > slides.length) {
+            slideIndex = 1;
+          }
+          if (n < 1) {
+            slideIndex = slides.length;
+          }
+          for (i=0; i<slides.length; i++) {
+            slides[i].style.display = "none";
+          }
+          for (i=0; i<dots.length; i++) {
+            dots[i].className = dots[i].className.replace(" activeShow","");
+          }
+          slides[slideIndex - 1].style.display = "block";
+          dots[slideIndex - 1].className += " activeShow";
+        }
+      </script>
+      </div>
+    </main>
+    <footer id="main-footer"></footer>
+  </body>
+</html>

@@ -1,0 +1,3406 @@
+[
+{
+  "id": "00TV22",
+  "title": "Better Call Saul",
+  "ranking": 1,
+  "rating": "9.9/10",
+  "review": "This is a show that just gets better and better each season. I think that is it's greatest strength but also it's greatest weakness. What I mean by that is, the first couple seasons are great, but slow, so a lot of viewers drop off before they get to the last 4 seasons, which are just so incredibly perfect. It is suspenseful, fun, romantic, and funny! Even though half the characters are already ones you met in Breaking Bad, the new characters are what make the show even better! From Nacho, to Kim, to Chuck, to even Lalo, they are all amazing characters and great additions to the Breaking Bad universe.",
+  "posterImage": "../images/shows/BCS/BCS.jpg",
+  "wideImage": "../images/shows/BCS/BCS Banner.jpg",
+  "seasons": [
+    {
+	"season": 1,
+	"rating": "8.5/10",
+	"review": "A very fun introduction to Jimmy. We already knew who Saul was, but Jimmy McGill is a very different man, and this season does a great job showing the distinction between the two. The Kettleman case is just so much fun and allows us to see the relationship between Jimmy and HHM. The reveal towards the end of Chuck being the one who has always been against Jimmy was just so well done. It's the beginning of the end for their relationship as brothers, and you can really feel the pain Jimmy must be feeling. Kim quickly becomes a fan favorite character, as she is able to become more than just the 'main characters girlfriend'. She is an intriguing character and really helps fuel a lot of the decisions Jimmy makes.",
+	"seasonImage": "../images/shows/BCS/BCS Season 1.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Uno",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Mijo",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Nacho",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Hero",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Alpine Shepherd Boy",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Five-O",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Bingo",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "RICO",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Pimento",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Marco",
+		"rating": "8.2/10"
+	 }
+	]
+},
+    {
+	"season": 2,
+	"rating": "8.7/10",
+	"review": "This season leans a bit more into the cartel side and helps show Nacho and his relationship with Mike. That relationship helps show why Mike was so close to Jesse Pinkman in Breaking Bad. Jimmy's side of the story starts to get more interesting later in the season when he tries to save Kim's new client from being poached by HHM. This really makes the Chuck v Jimmy aspect so much more fun and interesting. As clever as Jimmy is, Chuck is just so smart and knows his brother so well. This is shown in the very last scene when it is revealed Chuck recorded Jimmy while he was confessing. Very awesome cliffhanger leaving the audience wanting more.",
+	"seasonImage": "../images/shows/BCS/BCS Season 2.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Switch",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Cobbler",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Amarillo",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Gloves Off",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Rebecca",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Bali Ha'i",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Inflatable",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Fifi",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Nailed",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Klick",
+		"rating": "8.8/10"
+	 }
+	]
+},
+    {
+	"season": 3,
+	"rating": "9.0/10",
+	"review": "Gus is back and he is just as menacing as ever! It is great to see how he meets Mike and how they start working together. I love that it all happens because of Hector Salamanca. Based on what we know from Breaking Bad, Hector has always been the reason behind everything that Gus does, so it makes sense that he would meet Mike because of it. As far as Jimmy's side goes, this is the culmination of the Chuck story. Jimmy finally beats Chuck in one of the best episodes of the show: Chicanery. The acting is so great, and it feels so good to see Chuck finally lose. Very sad ending to the season with Chuck killing himself, but it is a fitting ending and leads to some very interesting stuff in the next season",
+	"seasonImage": "../images/shows/BCS/BCS Season 3.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Mabel",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Witness",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Sunk Costs",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Sabrosito",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Chicanery",
+		"rating": "9.8/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Off Brand",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Expenses",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Slip",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Fall",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Lantern",
+		"rating": "9.0/10"
+	 }
+	]
+},
+    {
+	"season": 4,
+	"rating": "9.0/10",
+	"review": "This season, you get to see the characters react to Chucks death. We also see Jimmy have to do something other than being a lawyer, which doesn't stop him from being Slippin Jimmy! Seeing him pretend to cry about Chuck when trying to get his law license back was very interesting, especially with how it even fools Kim. Showing her that he might be further gone than she thought. On the cartel side, we get to see the origin of the meth lab. Very cool seeing the Germans and how Gus and Mike had to keep them all secluded so nobody would know what they were doing. It's also great character development for Mike as it leads to him having to kill his friend, Werner Ziegler, for Gus. This is also the season we are introduced to Lalo, who is my favorite villain in the whole Breaking Bad universe! He is just so charismatic and so scary at the same time.",
+	"seasonImage": "../images/shows/BCS/BCS Season 4.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Smoke",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Breathe",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Something Beautiful",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Talk",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Quite a Ride",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Pinata",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Something Stupid",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Coushatta",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Wiedersehen",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Winner",
+		"rating": "9.4/10"
+	 }
+	]
+},
+    {
+	"season": 5,
+	"rating": "9.6/10",
+	"review": "Nacho and Lalos relationship is explored more this season, which is very fun. The battle between Gus and Lalo begins, and it is quite the ride. Saul gets caught up in the cartel much more this season, leading to a lot of really intense moments. Kim and Saul get married, but more so for legal reasons, which is interesting. When Lalo comes to Saul and Kim's place to intimidate them, it is so intense and so much fun. Leading to the last episode where the crap hits the fan for Lalo. His whole family is murdered, and he knows Nacho and Gus were the ones to orchestrate it. With his death being faked, he is on a mission for revenge, which makes the next season that much more intriguing.",
+	"seasonImage": "../images/shows/BCS/BCS Season 5.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Magic Man",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "50% Off",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "The Guy for This",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Namaste",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Dedicado a Max",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Wexler v. Goodman",
+		"rating": "9.4/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "JMM",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Bagman",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Bad Choice Road",
+		"rating": "9.8/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Something Unforgivable",
+		"rating": "9.5/10"
+	 }
+	]
+},
+    {
+	"season": 6,
+	"rating": "9.9/10",
+	"review": "Wow. What can I say about this season, other than… it is basically perfect! The first half shows Kim and Jimmy slowly moving forward with their plans to ruin Howard's career and reputation. It doesn't reveal every part of the plan to the audience, which makes the episode, Plan and Execution, that much more exciting and fun! Everything goes perfectly in taking down Howard, until the end, where the cartel side of the show meets the lawyer side of the show. Lalo shows up and kills Howard and it is just so devastating. Then Gus beats Lalo and kills him! So crazy. Then we get into the last few episodes, where we see Kim leave her life she was living (including Jimmy) because of the events that happened with Lalo and Howard. Then We see much more of 'post-Breaking Bad Saul' as Gene, leading to him getting caught and having to decide whether he wants to use his Slippin Jimmy charm to get his sentence down as much as possible, or serve the time he deserves. Such a great ending for this show and it leaves you with such a satisfied feeling. Saul finally owns up to all of his actions and has to pay the consequences.",
+	"seasonImage": "../images/shows/BCS/BCS Season 6.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Wine and Roses",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Carrot and Stick",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Rock and Hard Place",
+		"rating": "9.7/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Hit and Run",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Black and Blue",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Axe and Grind",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Plan and Execution",
+		"rating": "9.9/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Point and Shoot",
+		"rating": "9.6/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Fun and Games",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Nippy",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Breaking Bad",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Waterworks",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "Saul Gone",
+		"rating": "9.6/10"
+	 }
+	]
+}
+
+]
+},
+{
+  "id": "00TV23",
+  "title": "Breaking Bad",
+  "ranking": 2,
+  "rating": "9.9/10",
+  "review": "I feel like the directors of this show knew exactly what they were doing and how they were going to do it. This show just feels so complete and every little thing is an intentional decision that sets up bigger things to come. The acting is incredible, there is some really good humor throughout, and the events that take place through the whole show are just so gripping and intense and will have you on the edge of your seat!",
+  "posterImage": "../images/shows/BB/BB.jpg",
+  "wideImage": "../images/shows/BB/BB Banner.jpg",
+  "seasons": [
+    {
+	"season": 1,
+	"rating": "8.8/10",
+	"review": "This is the shortest season, as they didn't know if there was even going to be another season. This also leads to the ending feeling abrupt and not complete. That would be my only complaint though. Everything else is great! Seeing Walt struggle to kill Krazy-8 even though he knows that's the only real option, is very intriguing, especially considering the things he ends up doing throughout the show. The introduction of Tuco in the second half of the season is a much needed injection of intense action and fun scenes. Overall, a great introduction to all these characters who would eventually become iconic.",
+	"seasonImage": "../images/shows/BB/BB Season 1.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Pilot",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Cat's in the Bag...",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "...And the Bag's in the River",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Cancer Man",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Gray Matter",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Crazy Handful of Nothin'",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "A No-Rough-Stuff-Type Deal",
+		"rating": "9.0/10"
+	 }
+	]
+},
+    {
+	"season": 2,
+	"rating": "8.8/10",
+	"review": "First few episodes with Tuco are awesome and crazy! Then it slows down a bit before picking things back up with the introductions of Jane, Saul, Gus, and Mike. Jane's relationship with Jesse and her death is so tragic. To me, it is the first glimpse into Walt's degrading morals, and it changes Jesse forever as well. I love the foreshadowing of the episodes that start with the burnt teddy bear in the pool, and how those episode titles hint at how the season ends. A great season with a great finale.",
+	"seasonImage": "../images/shows/BB/BB Season 2.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Seven Thirty-Seven",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Grilled",
+		"rating": "9.6/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Bit by a Dead Bee",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Down",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Breakage",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Peekaboo",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Negro y Azul",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Better Call Saul",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "4 Days Out",
+		"rating": "9.4/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Over",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Mandala",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Phoenix",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "ABQ",
+		"rating": "8.8/10"
+	 }
+	]
+},
+    {
+	"season": 3,
+	"rating": "9.0/10",
+	"review": "This season is not as perfect as the final two seasons, because there are some slower episodes that don't feel like it is going anywhere. However, this season has some of my favorite episodes in the entire show! Sunset, One Minute, Half Measures, and Full Measure are all just so fun, intense, and crazy. Hank has some good character development with everything that happens with Jesse, and him losing his badge, then almost losing his life! Gale is a fun character, which makes the finale all that more depressing, when Jesse has no choice but to kill him.",
+	"seasonImage": "../images/shows/BB/BB Season 3.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "No Mas",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Caballo sin Nombre",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "I.F.T.",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Green Light",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Mas",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Sunset",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "One Minute",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "I See You",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Kafkaesque",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Fly",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Abiquiu",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Half Measures",
+		"rating": "9.4/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "Full Measure",
+		"rating": "9.4/10"
+	 }
+	]
+},
+    {
+	"season": 4,
+	"rating": "9.8/10",
+	"review": "The chess match between Walt and Gus. From Gus slitting Victors throat just to make a point, to Walt poisoning a child. This season really shows how villainous Gus and Walt can be. Both of them using their own twisted tactics to try to get Jesse on their side, is very fun to see. Even though you start to dislike Walt a bit more in this season, you hate Gus even more. Which makes the finale all that more sweet when Walt beats Gus using his one weakness, Hector Salamanca.",
+	"seasonImage": "../images/shows/BB/BB Season 4.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Box Cutter",
+		"rating": "9.4/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Thirty-Eight Snub",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Open House",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Bullet Points",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Shotgun",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Cornered",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Problem Dog",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Hermanos",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Bug",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Salud",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Crawl Space",
+		"rating": "9.7/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "End Times",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "Face Off",
+		"rating": "9.8/10"
+	 }
+	]
+},
+    {
+	"season": 5,
+	"rating": "9.9/10",
+	"review": "Walt is full blown villain this season and he is not even trying to hide it anymore. Love the dynamic of Walt, Jesse, and Mike in the beginning as they try to clean up the mess that was left from Season 4's finale. The train heist was one of the most intense and fun sequences in the whole show! Ending with the sadistic Todd shooting the innocent child. Walt killing Mike for no reason at all, and then putting out a hit on all those guys in prison within the span of two minutes was the most evil you have ever seen him. Then you get into the part where Hank figures it all out, and the secret is out. Walt is Heisenberg! Hank v Walt is such an interesting showdown as it is brute force (Hank) against brains (Walt). Which is interesting that each of their last moves against each other is actually the opposite of their normal tendencies. Hank uses his brain to catch Walt, when he tricks him to revealing the location of the money. Then Walt's final move is using brute force, when he gets Todd's uncle and his group of violent nazis to come save him. Brilliant writing! The last few episodes are depressing, but perfect. Walt deserved to lose everything and Jesse deserved freedom, and in the end, that's exactly what they got. Incredible series.",
+	"seasonImage": "../images/shows/BB/BB Season 5.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Live Free or Die",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Madrigal",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Hazard Pay",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Fifty-One",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Dead Freight",
+		"rating": "9.8/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Buyout",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Say My Name",
+		"rating": "9.4/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Gliding Over All",
+		"rating": "9.6/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Blood Money",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Buried",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Confessions",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Rabid Dog",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "To'hajiilee",
+		"rating": "9.6/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "Ozymandias",
+		"rating": "9.9/10"
+	 },
+	  {
+		"episode": 15,
+		"epTitle": "Granite State",
+		"rating": "9.6/10"
+	 },
+	  {
+		"episode": 16,
+		"epTitle": "Felina",
+		"rating": "9.9/10"
+	 }
+	]
+}
+]
+},
+{
+  "id": "00TV24",
+  "title": "Mr. Robot",
+  "ranking": 3,
+  "rating": "9.5/10",
+  "review": "This is one of those shows that blows your mind with crazy twists, and then you keep watching thinking, 'there is no way they can trick me again, I am watching this like a hawk' and then, sure enough, it manages to blow your mind again! And again and again. This show is very well written, acted, and directed! The music is awesome and makes you feel like you are right in the action. Speaking of which, Elliot talking to you as his imaginary friend throughout the story actually does make you feel like you are part of the story! Probably the most underrated show in this list.",
+  "posterImage": "../images/shows/MR/MR.jpg",
+  "wideImage": "../images/shows/MR/MR Banner.jpg",
+  "seasons": [
+    {
+	"season": 1,
+	"rating": "9.1/10",
+	"review": "The introduction to all the characters is very well done here. I love the Vera stuff, especially with how it ends with him killing Shayla. All the hacking scenes are really cool and interesting. Then we get to the twists of the season! The scene where Elliot kisses Darlene, and you slowly start to realize she is his sister and he just forgot about her…. So crazy! Then the reveal that Mr. Robot is his dad. Then the reveal that Mr. Robot is actually just a part of Elliot. By the end of this season, your whole view of the show completely changes! These twists makes this season very rewatchable, as you want to try to find certain scenes that foreshadow the twists.",
+	"seasonImage": "../images/shows/MR/MR Season 1.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "eps1.0_hellofriend.mov",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "eps1.1_ones-and-zer0es.mpeg",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "eps1.2_d3bug.mkv",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "eps1.3_da3m0ns.mp4",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "eps1.4_3xpl0its.wmv",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "eps1.5_br4ve-trave1er.asf",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "eps1.6_v1ew-s0urce.flv",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "eps1.7_wh1ter0se.m4v",
+		"rating": "9.6/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "eps1.8_m1rr0r1ng.qt",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "eps1.9_zer0-day.avi",
+		"rating": "8.7/10"
+	 }
+	]
+},
+    {
+	"season": 2,
+	"rating": "8.9/10",
+	"review": "This season is not quite as good, because it doesn't feel like it has a clear direction for the first few episodes. However, once things pick up, it's great! The ALF episode is super different and fun, and actually pretty dark when you realize why he is experiencing that. Then the next big twist of the show. The reveal that Elliot has been in jail the entire first half of this season, but he has been shielding you from seeing that. Such a creative twist! The buildup to seeing Tyrell again is awesome, and the finale is very intense. They do a great job at making you question whether Tyrell is real or just part of Elliot's imagination. Then you realize Tyrell is actually real when he shoots Elliot to prevent him from ruining the plan they have spent this whole time on. Very good subversion if expectations from the last seasons finale to this one",
+	"seasonImage": "../images/shows/MR/MR Season 2.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "eps2.0_unm4sk-pt1.tc",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "eps2.0_unm4sk-pt2.tc",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "eps2.1_k3rnel-pan1c.ksd",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "eps2.2_init_1.asec",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "eps2.3_logic-b0mb.hc",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "eps2.4_m4ster-s1ave.aes",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "eps2.5_h4ndshake.sme",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "eps2.6_succ3ss0r.p12",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "eps2.7_init_5.fve",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "eps2.8_h1dden-pr0cess.axx",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "eps2.9_pyth0n-pt1.p7z",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "eps2.9_pyth0n-pt2.p7z",
+		"rating": "9.1/10"
+	 }
+	]
+},
+    {
+	"season": 3,
+	"rating": "9.4/10",
+	"review": "The dark army is front and center in this season, and they are scarier than ever! From the shooting at the lobby in china, to the shooting at the diner, to Irving with an axe. They are a force to be reckoned with. We also get that amazing one-two punch in the middle of the season with 'runtime error' and 'kill process'. 'Runtime error' is packed with action and they film it so it looks like the entire episode was one take! Then 'Kill process' with that amazing reveal at the end that the dark army blew up all the other E Corp buildings across the country, making this whole episode a huge gut punch. Elliot is barely able to buy some more time in the finale by promising white rose a way to move her project to the Congo. Such an intense season with a great setup for the final season!",
+	"seasonImage": "../images/shows/MR/MR Season 3.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "eps3.0_power-saver-mode.h",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "eps3.1_undo.gz",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "eps3.2_legacy.so",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "eps3.3_m3tadata.par2",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "eps3.4_runtime-err0r.r00",
+		"rating": "9.7/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "eps3.5_kill-pr0cess.inc",
+		"rating": "9.7/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "eps3.6_fredrick+tanya.chk",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "eps3.7_dont-delete-me.ko",
+		"rating": "9.7/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "eps3.8_stage3.torrent",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "shutdown -r",
+		"rating": "9.5/10"
+	 }
+	]
+},
+    {
+	"season": 4,
+	"rating": "9.7/10",
+	"review": "This is a perfect ending to Mr. Robot. We get to see him finally take down the dark army, white rose, and the deus group. All the people who 'play god without permission'. I love the episode that is almost completely without words. It starts with Darlene saying 'It's okay dude. We don't have to talk' and then continues an action packed episode without a single word until the very ending where we hear Vera say 'It's time we talk'. So awesome! Vera's big episode is just as incredible! It is structured like a 5 act movie and it is so intense, funny, and crazy. Then we get the final reveal that the Elliot we have been following is not the real Elliot. He is just a separate personality that was created to 'save the world' from all the bad. It is so emotional when 'the mastermind' has to accept this and let the real Elliot take control back, which allows Darlene to finally talk to her brother that she has been wanting to talk to for so long. Heartbreaking and emotional. One of the most complete stories ever told, as it is clear the director knew how he wanted to end the show from the moment it began.",
+	"seasonImage": "../images/shows/MR/MR Season 4.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "401 Unauthorized",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "402 Payment Required",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "403 Forbidden",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "404 Not Found",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "405 Method Not Allowed",
+		"rating": "9.7/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "406 Not Acceptable",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "407 Proxy Authentication Required",
+		"rating": "9.8/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "408 Request Timeout",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "409 Conflict",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "410 Gone",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "eXit",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "whoami",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "Hello, Elliot",
+		"rating": "9.9/10"
+	 }
+	]
+}
+
+]
+},
+{
+  "id": "00TV25",
+  "title": "I Think You Should Leave",
+  "ranking": 4,
+  "rating": "9.2/10",
+  "review": "This is the kind of show for people who love the structure of Saturday Night Live, but wish it was funnier. It is just a bunch of unrelated sketches that are all hilarious in their own way. Most of the sketches has a character that escalates the situation out of embarrassment, which leads to even more embarrassment. Tim Robinson is in 90% of the sketches and his characters are always so over the top and hilarious. I quote this show in my daily life more than any other show ever!",
+  "posterImage": "../images/shows/ITYSL/ITYSL.jpg",
+  "wideImage": "../images/shows/ITYSL/ITYSL Banner.jpg",
+  "seasons": [
+    {
+	"season": 1,
+	"rating": "9.2/10",
+	"review": "This season is just so funny! Some of my favorite sketches include 'Bones are their Money', 'Hot Dog Costume', 'Laser Spine Specialist', and 'Christmas Came Early'. Most of the funniest quotes are not even what is being said, but HOW it is being said. 'I'm not stupid. I'm smarter than you!' Is not a funny quote, but it is hilarious because of the way she delivers it! Great season.",
+	"seasonImage": "../images/shows/ITYSL/ITYSL Season 1.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Has This Ever Happened to You",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Thanks for Thinking They Are Cool",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "It's the Cigars You Smoke That Are Going to Give You Cancer",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Oh Crap, A Bunch More Bad Stuff Just Happened",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "I'm Wearing One of Their Belts Right Now",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "We Used to Watch This at My Old Work",
+		"rating": "8.9/10"
+	 }
+	]
+},
+    {
+	"season": 2,
+	"rating": "9.3/10",
+	"review": "This season is just as funny, if not more so. Upon first watch, I liked this season, but kept comparing it to season 1. However, the more I have watched it, I actually think this season is a step up from the first. Best sketches include 'Ghost Tour', 'Karl Havoc', 'Coffin Flop', 'Sloppy Steaks' and 'Safari Flaps'. If you liked Season 1 and have already made it this far, then you must think this type of humor is funny. So if that's the case, Season 2 is exactly what you are going to want to see. Hilarious sketches with cringey characters are combined to make a great season.",
+	"seasonImage": "../images/shows/ITYSL/ITYSL Season 2.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "They said that to me at a dinner.",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "They have a cake shop there Susan where the cakes just look stunning.",
+		"rating": "9.4/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "You sure about that? You sure about that that's why?",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Everyone just needs to be more in the moment.",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Didn't you say there was gonna be five people at this table?",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "I need a wet paper towel.",
+		"rating": "8.4/10"
+	 }
+	]
+}
+
+]
+},
+{
+  "id": "00TV26",
+  "title": "The Office",
+  "ranking": 5,
+  "rating": "9.0/10",
+  "review": "Incredibly funny characters in such seemingly boring situations. It makes for great comedy! All the characters in this show are so iconic and every episode is so quotable. The only reason this show isn't higher on the list is because I feel like it ran just a bit too long. One less season, and this show is much more perfect than I am rating it. If you also like romance, it's got great romance! It is also so easy to watch because of how short the episodes are. It doesn't feel like too much of a commitment when you start an episode, so it's easy to binge!",
+  "posterImage": "../images/shows/TO/TO.jpg",
+  "wideImage": "../images/shows/TO/TO Banner.jpg",
+  "seasons": [
+    {
+	"season": 1,
+	"rating": "8.1/10",
+	"review": "This is a case of a show trying to figure out who each character is and what the humor would be. It's a bit inconsistent in comparison to the rest of the show, but there are some really great moments! From Michael expecting Stanley to be great at basketball, to the entirety of Diversity Day, you get the picture that Michael is incredibly ignorant and so very funny.",
+	"seasonImage": "../images/shows/TO/TO Season 1.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Pilot",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Diversity Day",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Health Care",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "The Alliance",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Basketball",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Hot Girl",
+		"rating": "8.5/10"
+	 }
+	]
+},
+    {
+	"season": 2,
+	"rating": "9.3/10",
+	"review": "Michael grilling his foot and then expecting the whole office to come to his aid, is just comedy gold. Great episodes like 'Booze Cruise', 'The Fight', and 'Casino Night'. Most of the episodes are pretty disconnected from each other, however, Jim and Pam are consistently flirting with each other. This comes to a head in the season finale where we see Jim finally confess his love for Pam and kiss her. Great cliffhanger.",
+	"seasonImage": "../images/shows/TO/TO Season 2.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "The Dundies",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Sexual Harassment",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Office Olympics",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "The Fire",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Halloween",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "The Fight",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "The Client",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Performance Review",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "E-Mail Surveillance",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Christmas Party",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Booze Cruise",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "The Injury",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "The Secret",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "The Carpet",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 15,
+		"epTitle": "Boys and Girls",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 16,
+		"epTitle": "Valentine's Day",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 17,
+		"epTitle": "Dwight's Speech",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 18,
+		"epTitle": "Take Your Daughter To Work Day",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 19,
+		"epTitle": "Michaels Birthday",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 20,
+		"epTitle": "Drug Testing",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 21,
+		"epTitle": "Conflict Resolution",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 22,
+		"epTitle": "Casino Night",
+		"rating": "9.3/10"
+	 }
+	]
+},
+    {
+	"season": 3,
+	"rating": "9.4/10",
+	"review": "Jim is no longer in Scranton. This puts a pause on the romantic storyline, but it does introduce some great new characters! Andy is funny and adds a fun new dynamic to the show. Karen is a good addition to spice things up later on in the season as far as the romantic story goes. This is also where Prison Mike is born, which is enough to love this season!",
+	"seasonImage": "../images/shows/TO/TO Season 3.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Gay Witch Hunt",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "The Convention",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "The Coup",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Grief Counseling",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Initiation",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Diwali",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Branch Closing",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "The Merger",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "The Convict",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "A Benihana Christmas",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Back From Vacation",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Traveling Salesman",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "The Return",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "Ben Franklin",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 15,
+		"epTitle": "Phyllis' Wedding",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 16,
+		"epTitle": "Business School",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 17,
+		"epTitle": "Cocktails",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 18,
+		"epTitle": "The Negotiation",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 19,
+		"epTitle": "Safety Training",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 20,
+		"epTitle": "Product Recall",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 21,
+		"epTitle": "Women's Appreciation",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 22,
+		"epTitle": "Beach Games",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 23,
+		"epTitle": "The Job",
+		"rating": "9.2/10"
+	 }
+	]
+},
+    {
+	"season": 4,
+	"rating": "9.8/10",
+	"review": "My favorite season by far! Jim and Pam are finally a couple and they are so great together. Highlight episodes are 'Fun Run', 'Dunder Mifflin Infinity', 'Goodbye, Toby', and of course, my all time favorite: 'Dinner Party'. But really, every single episode is just so good. Every character is at their peak, comedically. It's also the shortest season, which might be why it stands out from the other seasons.",
+	"seasonImage": "../images/shows/TO/TO Season 4.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Fun Run",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Dunder Mifflin Infinity",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Launch Party",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Money",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Local Ad",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Branch Wars",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Survivor Man",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "The Deposition",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Dinner Party",
+		"rating": "9.9/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Chair Model",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Night Out",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Did I Stutter?",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "Job Fair",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "Goodbye, Toby",
+		"rating": "9.7/10"
+	 }
+	]
+},
+    {
+	"season": 5,
+	"rating": "9.1/10",
+	"review": "This season starts with a bang with the extra long 'Weight Loss' episode! So funny, and we get Jim's proposal to Pam! Some great funny episodes in the beginning leading up to the main part of this seasons story, Charles Miner and the Michael Scott Paper Company. Although I don't love Charles Miner, it is such a fun and crazy story that keeps you laughing and wondering what's going to happen next!",
+	"seasonImage": "../images/shows/TO/TO Season 5.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Weight Loss",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Business Ethics",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Baby Shower",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Crime Aid",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Employee Transfer",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Customer Survey",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Business Trip",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Frame Toby",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "The Surplus",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Moroccan Christmas",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "The Duel",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Prince Family Paper",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "Stress Relief",
+		"rating": "9.8/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "Lecture Circuit",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 15,
+		"epTitle": "Blood Drive",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 16,
+		"epTitle": "Golden Ticket",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 17,
+		"epTitle": "New Boss",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 18,
+		"epTitle": "Two Weeks",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 19,
+		"epTitle": "Dream Team",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 20,
+		"epTitle": "Michael Scott Paper Company",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 21,
+		"epTitle": "Heavy Competition",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 22,
+		"epTitle": "Broke",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 23,
+		"epTitle": "Casual Friday",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 24,
+		"epTitle": "Cafe Disco",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 25,
+		"epTitle": "Company Picnic",
+		"rating": "9.0/10"
+	 }
+	]
+},
+    {
+	"season": 6,
+	"rating": "9.0/10",
+	"review": "Best part of the first half of this season is Jim and Pam's wedding! Another extra long episode that is so satisfying and so hilarious. Then, the second half story is all about Sabre. I absolutely love the character of Gabe, as he is the guy everyone loves to crap on throughout the show. However, I am not a huge fan of Jo Bennett. She fills in the same role as Charles Miner from last season. A great actor who plays a character who is not funny and kind of takes away from the humor of the show. Overall a good season though, and the finale teases Holly coming back, which is exciting for Michael!",
+	"seasonImage": "../images/shows/TO/TO Season 6.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Gossip",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "The Meeting",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "The Promotion",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Niagara",
+		"rating": "9.6/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Mafia",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "The Lover",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Koi Pond",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Double Date",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Murder",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Shareholder Meeting",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Scott's Tots",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Secret Santa",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "The Banker",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "Sabre",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 15,
+		"epTitle": "Manager and Salesman",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 16,
+		"epTitle": "The Delivery",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 17,
+		"epTitle": "St. Patrick's Day",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 18,
+		"epTitle": "New Leads",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 19,
+		"epTitle": "Happy Hour",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 20,
+		"epTitle": "Secretary's Day",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 21,
+		"epTitle": "Body Language",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 22,
+		"epTitle": "The Cover-Up",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 23,
+		"epTitle": "The Chump",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 24,
+		"epTitle": "Whistleblower",
+		"rating": "8.9/10"
+	 }
+	]
+},
+    {
+	"season": 7,
+	"rating": "8.8/10",
+	"review": "This season is pretty inconsistent for me. Some episodes are okay, and some are great! Everything with Michael leaving is just so sad but so fun and funny! His proposal to Holly is so perfect and makes you feel happy that he is finally happy. Threat Level Midnight is amazing. Contrary to popular belief, I actually really love Diangelo. I think Will Ferrell kills it and I laugh every time he is on screen. The last episode is fun with a bunch of cameos and it leaves you with the cliffhanger of who will be the new boss",
+	"seasonImage": "../images/shows/TO/TO Season 7.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Nepotism",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Counseling",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Andy's Play",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Sex Ed",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "The Sting",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Costume Contest",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Christening",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Viewing Party",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "WUPHF.com",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "China",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Classy Christmas",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Ultimatum",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "The Seminar",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "The Search",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 15,
+		"epTitle": "PDA",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 16,
+		"epTitle": "Threat Level Midnight",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 17,
+		"epTitle": "Todd Packer",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 18,
+		"epTitle": "Garage Sale",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 19,
+		"epTitle": "Training Day",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 20,
+		"epTitle": "Michaels Last Dundies",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 21,
+		"epTitle": "Goodbye, Michael",
+		"rating": "9.7/10"
+	 },
+	  {
+		"episode": 22,
+		"epTitle": "The Inner Circle",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 23,
+		"epTitle": "Dwight K. Schrute, (Acting) Manager",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 24,
+		"epTitle": "Search Committee",
+		"rating": "9.1/10"
+	 }
+	]
+},
+    {
+	"season": 8,
+	"rating": "8.5/10",
+	"review": "This season is hated on by a lot of people, and I get it. However, I think Robert California is hilarious and he makes everyone else funnier in a different way than Michael did. Nobody can fill the Michael Scott sized hole that is pretty glaring in the last two seasons of the show. So I think it is great that Robert California is his own character, rather than having him try to be the new Michael Scott. Also, the Florida stuff is just so funny, and I loved all of it.",
+	"seasonImage": "../images/shows/TO/TO Season 8.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "The List",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "The Incentive",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Lotto",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Garden Party",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Spooked",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Doomsday",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Pam's Replacement",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Gettysburg",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Mrs. California",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Christmas Wishes",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Trivia",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Pool Party",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "Jury Duty",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "Special Project",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 15,
+		"epTitle": "Tallahassee",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 16,
+		"epTitle": "After Hours",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 17,
+		"epTitle": "Test the Store",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 18,
+		"epTitle": "Last Day in Florida",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 19,
+		"epTitle": "Get the Girl",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 20,
+		"epTitle": "Welcome Party",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 21,
+		"epTitle": "Angry Andy",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 22,
+		"epTitle": "Fundraiser",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 23,
+		"epTitle": "Turf War",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 24,
+		"epTitle": "Free Family Portrait Studio",
+		"rating": "8.9/10"
+	 }
+	]
+},
+    {
+	"season": 9,
+	"rating": "7.1/10",
+	"review": "Season 8 showed me that this show can still be pretty good without Michael Scott. Then this season happened, and I just don't even know what to say. Almost every storyline is not interesting. Nobody wants to see Jim and Pam get into relationship issues over and over. Nobody really wants to care about two new characters (Clark and Pete), when this is the last season, and we are wanting to see all the characters we know and love for one last season! The only thing that makes this season okay, is the last four episodes. Very funny episodes, and I think they end the story perfectly! I don't think I have ever watched the last few episodes without crying. It's just such a great send off to all these characters we have gone through so much with! For a not so great season, they really do stick the landing.",
+	"seasonImage": "../images/shows/TO/TO Season 9.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "New Guys",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Roy's Wedding",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Andy's Ancestry",
+		"rating": "7.7/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Work Bus",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Here Comes Treble",
+		"rating": "7.8/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "The Boat",
+		"rating": "7.6/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "The Whale",
+		"rating": "7.5/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "The Target",
+		"rating": "7.2/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Dwight Christmas",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Lice",
+		"rating": "7.9/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Suit Warehouse",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Customer Loyalty",
+		"rating": "7.7/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "Junior Salesman",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "Vandalism",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 15,
+		"epTitle": "Couples Discount",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 16,
+		"epTitle": "Moving On",
+		"rating": "7.9/10"
+	 },
+	  {
+		"episode": 17,
+		"epTitle": "The Farm",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 18,
+		"epTitle": "Promos",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 19,
+		"epTitle": "Stairmageddon",
+		"rating": "7.6/10"
+	 },
+	  {
+		"episode": 20,
+		"epTitle": "Paper Airplane",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 21,
+		"epTitle": "Livin' the Dream",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 22,
+		"epTitle": "A.A.R.M.",
+		"rating": "9.7/10"
+	 },
+	  {
+		"episode": 23,
+		"epTitle": "Finale",
+		"rating": "9.7/10"
+	 }
+	]
+}
+
+]
+},
+{
+  "id": "00TV27",
+  "title": "Stranger Things",
+  "ranking": 6,
+  "rating": "8.8/10",
+  "review": "This show is packed full of intense scenes, humor, romance, and nostalgia! Eleven is such an iconic character and I love the development her character goes through for the four seasons. Hopper is just the best! He has some humor and he even has great scenes that make you want to cry. The story always keeps you on your toes and they really know how to end an episode. Always leaves you wanting more!",
+  "posterImage": "../images/shows/ST/ST.jpg",
+  "wideImage": "../images/shows/ST/ST Banner.jpg",
+  "seasons": [
+    {
+	"season": 1,
+	"rating": "9.4/10",
+	"review": "So many iconic scenes that have stuck with me. When Will warns his mom by spelling out 'RUN' in the lights, I was on the edge of my seat! When Wills body is found, and then Hopper cuts into it, and finds it is a fake, so crazy! I love the music in the scenes where they are finding out more about the upside down. So intense! When Steve, Jonathan, and Nancy all have to fight the Demagorgan, it is so fun and so awesome.",
+	"seasonImage": "../images/shows/ST/ST Season 1.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Chapter One: The Vanishing of Will Byers",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Chapter Two: The Weirdo on Maple Street",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Chapter Three: Holly, Jolly",
+		"rating": "9.6/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Chapter Four: The Body",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Chapter Five: The Flea and the Acrobat",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Chapter Six: The Monster",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Chapter Seven: The Bathtub",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Chapter Eight: The Upside Down",
+		"rating": "9.6/10"
+	 }
+	]
+},
+    {
+	"season": 2,
+	"rating": "8.7/10",
+	"review": "I love Will's story this season. Seeing him still haunted by the upside down is crazy, and how that escalates with the Mind Flayer basically possessing him. Love the new characters of the season. Bob, Max, and Billy are all great characters and add new things for our main characters to deal with. Bobs death is so sad and so intense. I don't love that Eleven is separated from the group for most of the season, and I'm not a big fan of her episode with the 'freaks' in New York. When she does come back to the group, it is great! The snowball dance is so iconic and ends with a great cliffhanger. The mind flayer towers over the school in the upside down while you hear 'Every Breath You Take' in the background. Beautiful.",
+	"seasonImage": "../images/shows/ST/ST Season 2.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Chapter One: MADMAX",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Chapter Two: Trick or Treat, Freak",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Chapter Three: The Pollywog",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Chapter Four: Will the Wise",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Chapter Five: Dig Dug",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Chapter Six: The Spy",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Chapter Seven: The Lost Sister",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Chapter Eight: The Mind Flayer",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Chapter Nine: The Gate",
+		"rating": "9.3/10"
+	 }
+	]
+},
+    {
+	"season": 3,
+	"rating": "9.3/10",
+	"review": "I think this is the most fun season of them all. Hopper is funny as the protective dad to Eleven. The kids have some fun scenes together, especially in the mall. And there is a pretty unrealistic, but fun, storyline with the Russians! Billy has an awesome storyline this season. His showdown against the kids (but mainly Eleven) is so intense and so crazy! Hopper and Billy's death at the end is so sad. Although Hopper isn't really dead, it is still super sad, especially when Eleven reads his letter while crying, thinking he has died. Eleven losing her powers is an interesting plot point, especially because it forces the kids to get creative to defeat the monster of this season. Fireworks!",
+	"seasonImage": "../images/shows/ST/ST Season 3.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Chapter One: Suzie, Do You Copy?",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Chapter Two: The Mall Rats",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Chapter Three: The Case of the Missing Lifeguard",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Chapter Four: The Sauna Test",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Chapter Five: The Flayed",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Chapter Six: E Pluribus Unum",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Chapter Seven: The Bite",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Chapter Eight: The Battle of Starcourt",
+		"rating": "9.4/10"
+	 }
+	]
+},
+    {
+	"season": 4,
+	"rating": "9.6/10",
+	"review": "We go from the most fun season (season 3) in the show, to the most dark season, by far! We still get some fun scenes, especially in the beginning, but for the most part, it's such a dark season. I love it! The ending of the first episode with Chrissy getting brutally killed was SHOCKING. It serves as a great introduction to the two new characters of the season. Vecna and Eddie. It shows the scariness of Vecna and the innocence of Eddie. The reveal of 001 being the one who massacred all those kids at the beginning of the season was awesome. Then to top it all off, he is also Vecna! It makes the final battle between him and Eleven so much more personal, and it is great! Also, Hopper taking down a demagorgan with a sword is everything I have ever wanted to see. Eddie's rock concert to draw the bats away was so freaking amazing. Max's episode is iconic and so emotionally satisfying. Then at the end, when she gets some limbs broken and turns blind, but barely survives. Brutal and emotional. Really makes you want Vecna to get defeated in the last season. I guess we will see!",
+	"seasonImage": "../images/shows/ST/ST Season 4.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Chapter One: The Hellfire Club",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Chapter Two: Vecna's Curse",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Chapter Three: The Monster and the Superhero",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Chapter Four: Dear Billy",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Chapter Five: The Nina Project",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Chapter Six: The Dive",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Chapter Seven: The Massacre at Hawkins Lab",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Chapter Eight: Papa",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Chapter Nine: The Piggyback",
+		"rating": "9.3/10"
+	 }
+	]
+}
+
+]
+},
+{
+  "id": "00TV28",
+  "title": "Lost",
+  "ranking": 7,
+  "rating": "8.5/10",
+  "review": "This show gets a bad rep because of the ending. While I understand it might not have been the perfect ending, you can't deny how amazing the rest of the show was. The characters are all great and I love the structure of the show, allowing us to see an important flashback to a specific character each episode. So many great cliffhangers and so many great mysteries! A very fun ride, regardless of how you may feel about the ending.",
+  "posterImage": "../images/shows/Lo/Lo.jpg",
+  "wideImage": "../images/shows/Lo/Lo Banner.jpg",
+  "seasons": [
+    {
+	"season": 1,
+	"rating": "9.2/10",
+	"review": "The introductions to all these characters through flashbacks and through their interactions with each other is just awesome. The beginning of Jack v Locke is shown this season, but isn't necessarily the focus quite yet. The mystery of the hatch is so well done. When Locke is crying over it begging for a sign, and then the hatch lights up…. Chills! The finale with Sawyer, Jin, Michael, and Walt on the raft. So crazy. The others kidnapping Walt and leaving the rest to die was just so shocking. Then the group finally getting the hatch open! One of the best cliffhanger endings of any show.",
+	"seasonImage": "../images/shows/Lo/Lo Season 1.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Pilot",
+		"rating": "9.4/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Tabula Rasa",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Walkabout",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "White Rabbit",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "House of the Rising Sun",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "The Moth",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Confidence Man",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Solitary",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Raised by Another",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "All the Best Cowboys Have Daddy Issues",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Whatever the Case May Be",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Hearts and Minds",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "Special",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "Homecoming",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 15,
+		"epTitle": "Outlaws",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 16,
+		"epTitle": "...In Translation",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 17,
+		"epTitle": "Numbers",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 18,
+		"epTitle": "Deus Ex Machina",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 19,
+		"epTitle": "Do No Harm",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 20,
+		"epTitle": "The Greater Good",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 21,
+		"epTitle": "Born to Run",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 22,
+		"epTitle": "Exodus",
+		"rating": "9.6/10"
+	 }
+	]
+},
+    {
+	"season": 2,
+	"rating": "9.2/10",
+	"review": "Desmond is my favorite character in the whole show, and I love his introduction here. The mystery of 'what's inside the hatch', has been answered. Now begins the mystery of 'why do we have to punch in these numbers every 108 minutes?'. I love the introduction of Henry Gale (Ben) and that it is not made clear whether he is one of the others or just an innocent man. His manipulation of Jack and Locke is masterful and very fun to watch. Michael, leading Jack, Kate, Sawyer, and Hurley right to the others is so crazy and such a betrayal. Once again, a great cliffhanger with us finally seeing the numbers NOT getting punched in.",
+	"seasonImage": "../images/shows/Lo/Lo Season 2.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Man of Science, Man of Faith",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Adrift",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Orientation",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Everybody Hates Hugo",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "...And Found",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Abandoned",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "The Other 48 Days",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Collision",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "What Kate Did",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "The 23rd Psalm",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "The Hunting Party",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Fire + Water",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "The Long Con",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "One of Them",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 15,
+		"epTitle": "Maternity Leave",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 16,
+		"epTitle": "The Whole Truth",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 17,
+		"epTitle": "Lockdown",
+		"rating": "9.4/10"
+	 },
+	  {
+		"episode": 18,
+		"epTitle": "Dave",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 19,
+		"epTitle": "S.O.S.",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 20,
+		"epTitle": "Two for the Road",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 21,
+		"epTitle": "?",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 22,
+		"epTitle": "Three Minutes",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 23,
+		"epTitle": "Live Together, Die Alone",
+		"rating": "9.3/10"
+	 }
+	]
+},
+    {
+	"season": 3,
+	"rating": "9.3/10",
+	"review": "Very interesting to see the three main characters in captivity at the beginning of this season. You don't necessarily feel like they are in danger, you are more curious as to what the others are planning. Juliet is another great character that gets introduced this season. Love the storyline of Desmond having flashes of the future with how Charlie is going to die. It sets up the best finale in the entire show. Charlie saving everybody by going down to where he knows he will drown is just so heroic! Especially since he gets one last message out to Desmond before he dies, 'Not Pennys Boat'. So good! But we aren't done yet. Then we get the reveal that the flashback of Jack spiraling out of control back at home is actually not a flashback, it is a flash forward! Revealing that at least he and Kate make it off the island! 'WE HAVE TO GO BACK!!' Such an amazing ending.",
+	"seasonImage": "../images/shows/Lo/Lo Season 3.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "A Tale of Two Cities",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "The Glass Ballerina",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Further Instructions",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Every Man for Himself",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "The Cost of Living",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "I Do",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Not in Portland",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Flashes Before Your Eyes",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Stranger in a Strange Land",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Tricia Tanaka Is Dead",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Enter 77",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Par Avion",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "The Man from Tallahassee",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "Expose",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 15,
+		"epTitle": "Left Behind",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 16,
+		"epTitle": "One of Us",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 17,
+		"epTitle": "Catch-22",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 18,
+		"epTitle": "D.O.C.",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 19,
+		"epTitle": "The Brig",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 20,
+		"epTitle": "The Man Behind the Curtain",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 21,
+		"epTitle": "Greatest Hits",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 22,
+		"epTitle": "Through the Looking Glass",
+		"rating": "9.7/10"
+	 }
+	]
+},
+    {
+	"season": 4,
+	"rating": "9.1/10",
+	"review": "The shortest season of the whole show. It is still so good though! 'The Constant' is the best episode in the whole show. Desmond and Penny's relationship is so good and stands the test of time! The ending is great too, with finally seeing the 'Oceanic 6' make it off the island. Then seeing Ben move the island! I also love the reveal of who this 'Jeremy Bentham' character is. It is Locke! And he is dead! So crazy.",
+	"seasonImage": "../images/shows/Lo/Lo Season 4.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "The Beginning of the End",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Confirmed Dead",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "The Economist",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Eggtown",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "The Constant",
+		"rating": "9.9/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "The Other Woman",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Ji Yeon",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Meet Kevin Johnson",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "The Shape of Things to Come",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Something Nice Back Home",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Cabin Fever",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "There's No Place Like Home",
+		"rating": "9.2/10"
+	 }
+	]
+},
+    {
+	"season": 5,
+	"rating": "8.9/10",
+	"review": "This season deals a lot with time travel, and it is a lot of fun! I love the progression of this seasons 'flash forwards' with everyone getting slowly convinced to come back to the island. I also love Sawyer and Juliet's relationship! Which makes it all that more tragic when Juliet pulls a 'Charlie' and sacrifices herself for the rest of the group. I love that when she finally gets the bomb to explode, the screen turns white with the 'LOST' letters showing up. A contrast to all the previous episodes of the show ending with a black screen and the word 'LOST'. This, to me, signifies the end of the show is near, and it gives kind of a heavenly vibe, rather than the dark vibe of all the other season finales.",
+	"seasonImage": "../images/shows/Lo/Lo Season 5.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Because You Left",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "The Lie",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Jughead",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "The Little Prince",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "This Place Is Death",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "316",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "The Life and Death of Jeremy Bentham",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "LaFleur",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Namaste",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "He's Our You",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Whatever Happened, Happened",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Dead Is Dead",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "Some Like It Hoth",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "The Variable",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 15,
+		"epTitle": "Follow the Leader",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 16,
+		"epTitle": "The Incident",
+		"rating": "9.0/10"
+	 }
+	]
+},
+    {
+	"season": 6,
+	"rating": "8.5/10",
+	"review": "This season is definitely the most confusing season. Which I think is a big reason people don't like it very much. It still has some great and emotional moments, but for the most part, I think the 'flash sideways' sequences don't work because it feels unimportant and inconsequential. Contrary to what most people think, I actually do like the story of Jacob and his brother. It continues the theme of dark versus light, so that's why I think it works. I absolutely LOVE the choice to make Hurley the long term protector of the island. I didn't think they would ever do that, because Hurley has always felt like a fun side character. So it was great to see him be the man like that! Most people think the ending is 'it was all a dream', but Jacks dad makes it clear when he says that everything that happened, actually happened. They all were just waiting in purgatory for everyone to die and meet there so they can move into the afterlife together. Pretty cheesy, but I think it works. This whole show has always been about love, and that's exactly how it ended.",
+	"seasonImage": "../images/shows/Lo/Lo Season 6.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "LA X",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "What Kate Does",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "The Substitute",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Lighthouse",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Sundown",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Dr. Linus",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Recon",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Ab Aeterno",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "The Package",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Happily Ever After",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Everybody Loves Hugo",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "The Last Recruit",
+		"rating": "8.3/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "The Candidate",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 14,
+		"epTitle": "Across the Sea",
+		"rating": "8.1/10"
+	 },
+	  {
+		"episode": 15,
+		"epTitle": "What They Died For",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 16,
+		"epTitle": "The End",
+		"rating": "9.0/10"
+	 }
+	]
+}
+
+]
+},
+{
+  "id": "00TV29",
+  "title": "Ted Lasso",
+  "ranking": 8,
+  "rating": "8.4/10",
+  "review": "I would not bet on Ted Lasso being a very good show….. unless you wanna make a buttload of money! The one liners in this show are better than any other show ever. Such quick witted humor. The characters are all so great and with each of them, there is more than meets the eye (in good ways and bad ways). The character of Ted is just so wholesome. He will make you laugh, cry, and go insane with how incredibly nice he is. I have never really been into soccer, but even the soccer scenes in this show are very intense and very fun to watch.",
+  "posterImage": "../images/shows/TL/TL.jpg",
+  "wideImage": "../images/shows/TL/TL Banner.jpg",
+  "seasons": [
+    {
+	"season": 1,
+	"rating": "9.3/10",
+	"review": "The character introductions in the first few episodes are so great! From Nate, to Jamie, to Rebecca, to Roy. They all have such distinct personalities that slowly change and get better the more they are influenced by Ted. The darts scene is just so perfect! You love to see Ted win, and you love to see Rupert lose. I love that the ending is not just a happy ending. The team loses and gets kicked out of the Premier League. A perfect setup for Ted's positivity to turn things around in season 2!",
+	"seasonImage": "../images/shows/TL/TL Season 1.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Pilot",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Biscuits",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Trent Crimm: The Independent",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "For the Children",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Tan Lines",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Two Aces",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Make Rebecca Great Again",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "The Diamond Dogs",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "All Apologies",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "The Hope That Kills You",
+		"rating": "9.3/10"
+	 }
+	]
+},
+    {
+	"season": 2,
+	"rating": "9.1/10",
+	"review": "A great continuation of the story. The one liners are still there, and the characters are all just so great! It is nice having Rebecca being a good character this season, so she doesn't have to be two faced anymore. I love the deep dive into mental health this season takes. The psychiatrist is a great character that helps us see more into the mind of Ted Lasso. Rebecca and Sam's relationship is weird but actually very sweet and endearing. There isn't really a villain this season, except for the twist villain that doesn't get revealed until the final couple of episodes. Nate the (not-so) great! His betrayal of Ted and then his rant towards Ted at the end is just a huge gut punch, as we are left wondering (just like Ted) where the heck that came from. Upon rewatch of the season, there are a ton of hints to Nate slowly becoming the villain that I didn't catch the first time. That is great story telling right there.",
+	"seasonImage": "../images/shows/TL/TL Season 2.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Goodbye Earl",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Lavender",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Do the Right-est Thing",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Carol of the Bells",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Rainbow",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "The Signal",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Headspace",
+		"rating": "8.5/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Man City",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Beard After Hours",
+		"rating": "8.0/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "No Weddings and a Funeral",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Midnight Train to Royston",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "Inverting the Pyramid of Success",
+		"rating": "9.0/10"
+	 }
+	]
+}
+
+]
+},
+{
+  "id": "00TV30",
+  "title": "Daredevil",
+  "ranking": 9,
+  "rating": "8.3/10",
+  "review": "This show has incredible action, iconic performances, and awesome storylines! The only downside is I think the seasons are too long. Every season has a few episodes that are very slow and don't contribute all that much to the overall story. You take those out and make each season ten episodes, and you've got a near perfect show!",
+  "posterImage": "../images/shows/DD/DD.jpg",
+  "wideImage": "../images/shows/DD/DD Banner.jpg",
+  "seasons": [
+    {
+	"season": 1,
+	"rating": "9.3/10",
+	"review": "Matt Murdock is such a great character and his development throughout this season is awesome. The one-take hallway fight scene is just incredible and it is the scene I think of, when I think of Daredevil. Also, Kingpin is so menacing. His first action scene where he decapitates the Russian guy with his car door…. So brutal and intimidating. I love that, by the end, our main character has to figure out how to beat Kingpin both as Matt Murdock, the lawyer AND as Daredevil, the vigilante. Karen's investigative scenes are very fun as well, and I love that she actively makes decisions to take down Kingpin, rather than just standing by watching all the action happen. Overall a great season with great action.",
+	"seasonImage": "../images/shows/DD/DD Season 1.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Into the Ring",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Cut Man",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "Rabbit in a Snowstorm",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "In the Blood",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "World on Fire",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Condemned",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Stick",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Shadows in the Glass",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Speak of the Devil",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Nelson v. Murdock",
+		"rating": "8.4/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "The Path of the Righteous",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "The Ones We Leave Behind",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "Daredevil",
+		"rating": "9.4/10"
+	 }
+	]
+},
+    {
+	"season": 2,
+	"rating": "8.8/10",
+	"review": "This season introduces the punisher and Elektra. Both are great characters and they greatly influence Daredevils decisions throughout the season. The punisher is the kind of character that instantly improves any scene he is in. So captivating. His prison fight scene is one of the most incredible and raw fight scenes ever. So brutal. We get some glimpses of kingpin in prison, and he is still just so intimidating. I don't love 'the hand' as the main villain of the season, but it does lead to great fight scenes between them and Daredevil and Elektra.",
+	"seasonImage": "../images/shows/DD/DD Season 2.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Bang",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Dogs to a Gunfight",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "New York's Finest",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Penny and Dime",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "Kinbaku",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "Regrets Only",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Semper Fidelis",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Guilty as Sin",
+		"rating": "8.9/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Seven Minutes in Heaven",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "The Man in the Box",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": ".380",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "The Dark at the End of the Tunnel",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "A Cold Day in Hell's Kitchen",
+		"rating": "8.9/10"
+	 }
+	]
+},
+    {
+	"season": 3,
+	"rating": "9.8/10",
+	"review": "Holy freaking crap. I don't know why I love this season so much, but I just do. Bullseye is an incredible addition to the show. The scene in the office where he fights Daredevil is crazy. It makes it feel like you can't hide anywhere. No matter where Daredevil hid, bullseye was able to hit him with something. Then, the build up towards the finale is so incredible showing the downfall of Dex, turning him into full Bullseye. The prison fight scene with Daredevil trying to escape is so intense. I love it so much. Then the ending! Daredevil vs Kingpin vs Bullseye. What an amazing scene. Daredevil finally getting the upper hand on Kingpin but not being able to kill him, is so emotionally satisfying but also frustrating, because you know that Kingpin will always be a threat if he is not dead. Just an incredible season.",
+	"seasonImage": "../images/shows/DD/DD Season 3.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "Resurrection",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "Please",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "No Good Deed",
+		"rating": "8.7/10"
+	 },
+	  {
+		"episode": 4,
+		"epTitle": "Blindsided",
+		"rating": "9.6/10"
+	 },
+	  {
+		"episode": 5,
+		"epTitle": "The Perfect Game",
+		"rating": "9.1/10"
+	 },
+	  {
+		"episode": 6,
+		"epTitle": "The Devil You Know",
+		"rating": "9.6/10"
+	 },
+	  {
+		"episode": 7,
+		"epTitle": "Aftermath",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 8,
+		"epTitle": "Upstairs/Downstairs",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 9,
+		"epTitle": "Revelations",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 10,
+		"epTitle": "Karen",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 11,
+		"epTitle": "Reunion",
+		"rating": "9.2/10"
+	 },
+	  {
+		"episode": 12,
+		"epTitle": "One Last Shot",
+		"rating": "9.3/10"
+	 },
+	  {
+		"episode": 13,
+		"epTitle": "A New Napkin",
+		"rating": "9.7/10"
+	 }
+	]
+}
+
+]
+},
+{
+  "id": "00TV31",
+  "title": "Sherlock",
+  "ranking": 10,
+  "rating": "8.1/10",
+  "review": "The best portrayal of Sherlock, Watson, Moriarty, etc. Just everyone does such an incredible job. I love that this is set in modern times. It really puts a new spin on this character and they do a great job with it. Episodes are movie length and the seasons are only a few episodes long, so it is a very different structure than most shows. It makes it hard to binge, but still a great viewing experience, nonetheless.",
+  "posterImage": "../images/shows/Sh/Sh.jpg",
+  "wideImage": "../images/shows/Sh/Sh Banner.jpg",
+  "seasons": [
+    {
+	"season": 1,
+	"rating": "9.0/10",
+	"review": "Love the introductory episode, and that they make you think Mycroft is Moriarty with how menacing he is and that he claims to Watson that he and Sherlock are enemies. But it turns out to be Mycroft, his brother. So great! The finale episode is so good as it introduces Moriarty. He sends Sherlock on a wild goose chase only to be in a position to kill him and Watson at the end. Great cliffhanger!",
+	"seasonImage": "../images/shows/Sh/Sh Season 1.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "A Study in Pink",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "The Blind Banker",
+		"rating": "8.6/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "The Great Game",
+		"rating": "9.2/10"
+	 }
+	]
+},
+    {
+	"season": 2,
+	"rating": "9.2/10",
+	"review": "Just like last season, the first and last episode of this season is soooooo good. Irene Adler is a great foil to Sherlock as it throws him off his game. They also do a great job in this episode of making you think she beat him, right up until the end. Then comes my favorite episode of the whole show, The Reichenbach Fall. Moriarty is the best villain, and he pulls out all the stops here. Completely fooling Sherlock at every turn. It's really impressive if you can make Sherlock look slow, and that's what Moriarty does. The last scene where they are both on the roof and Moriarty straight up kills himself to force Sherlock to jump off… mind blowing!",
+	"seasonImage": "../images/shows/Sh/Sh Season 2.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "A Scandal in Belgravia",
+		"rating": "9.5/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "The Hounds of Baskerville",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "The Reichenbach Fall",
+		"rating": "9.9/10"
+	 }
+	]
+},
+    {
+	"season": 3,
+	"rating": "8.9/10",
+	"review": "Sherlock's return to Watson is such a funny scene. The introduction of Mary is great and adds to the Sherlock/Watson dynamic. Magnussen is an awesome villain and a great way to end the season. His arrogance makes you want him to die so bad. Which makes the last scene so satisfying where Sherlock just shoots him, disregarding the consequences.",
+	"seasonImage": "../images/shows/Sh/Sh Season 3.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "The Empty Hearse",
+		"rating": "8.8/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "The Sign of Three",
+		"rating": "9.0/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "His Last Vow",
+		"rating": "9.2/10"
+	 }
+	]
+},
+    {
+	"season": 4,
+	"rating": "8.6/10",
+	"review": "I don't love the first episode of this season, but the other two are great. The episode with Culverton Smith is so good! He just adds to the list of incredible villains in this show. They make you feel like there is nothing Sherlock can do to beat him. The finale episode isn't as bad as a lot of people say. Sherlock's sister Eurus is pretty crazy. I don't love that they make her almost god like. It makes it feel less realistic. However, the journey that she makes Sherlock, Watson, and Mycroft go through is very fun! I hope they end up making more seasons, but for now, this is a great season of the show.",
+	"seasonImage": "../images/shows/Sh/Sh Season 4.jpg",
+	"episodes": [
+	  {
+		"episode": 1,
+		"epTitle": "The Six Thatchers",
+		"rating": "8.2/10"
+	 },
+	  {
+		"episode": 2,
+		"epTitle": "The Lying Detective",
+		"rating": "9.4/10"
+	 },
+	  {
+		"episode": 3,
+		"epTitle": "The Final Problem",
+		"rating": "8.4/10"
+	 }
+	]
+}
+
+]
+}
+]

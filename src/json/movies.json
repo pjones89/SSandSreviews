@@ -1,0 +1,92 @@
+[
+  {
+  "id": "11MO33",
+  "title": "The Other Guys",
+  "ranking": 1,
+  "rating": "9.5/10",
+  "review": "If you love comedies that are endlessly quotable, look no further! This movie is just so funny. I quote this show almost daily. Will Ferrell is at his best, and he plays perfectly off of Mark Wahlberg's character. There is not a single scene that feels slow or unnecessary. It just goes from scene to scene, making you laugh hysterically. Such a great movie!",
+  "posterImage": "../images/movies/TOG/TOG Poster.jpg",
+  "wideImage": "../images/movies/TOG/TOG Wide.jpg"
+},
+{
+  "id": "11MO34",
+  "title": "The Dark Knight",
+  "ranking": 2,
+  "rating": "9.4/10",
+  "review": "I just love how dark this movie gets. The introduction scene with the Joker is so great. The joker is so funny and scary at the same time. Batman is also so cool and smart in this movie. I love Harvey Dent as well, because it shows his character development so well. Overall, it's the best superhero movie of all time, because it doesn't rely on certain tropes or anything like that. It is just a good movie with great action and amazing characters.",
+  "posterImage": "../images/movies/TDK/TDK Poster.jpg",
+  "wideImage": "../images/movies/TDK/TDK Wide.jpg"
+},
+{
+  "id": "11MO35",
+  "title": "Knives Out",
+  "ranking": 3,
+  "rating": "9.1/10",
+  "review": "This is a great whodunnit, and an even better howdunnit. What I mean by that is, you DO get the mystery of who is the murderer, but as the story goes on, it doesn't rely on tricking you. It just lets you figure it out when you are able to figure it out, but the mystery still remains of how it happened. All the characters are great and they all play off each other so well. Very funny and very intriguing! Super satisfying ending as well!",
+  "posterImage": "../images/movies/KO/KO Poster.jpg",
+  "wideImage": "../images/movies/KO/KO Wide.jpg"
+},
+{
+  "id": "11MO36",
+  "title": "Get Out",
+  "ranking": 4,
+  "rating": "9.0/10",
+  "review": "Holy crap. Best horror movie I have ever seen. The eeriness of every scene makes it so intense. Each scene builds upon the last making the eeriness bigger and bigger until it all explodes in the crazy ending. Great acting by everyone involved and even though the main theme is about race, I don't think it pushed that narrative unnecessarily. It pushed it enough to drive the story, but it still let the story be the star of the show, rather than a narrative to push. Such an amazing movie.",
+  "posterImage": "../images/movies/GO/GO Poster.jpg",
+  "wideImage": "../images/movies/GO/GO Wide.jpg"
+},
+{
+  "id": "11MO37",
+  "title": "Inception",
+  "ranking": 5,
+  "rating": "8.9/10",
+  "review": "As the second Christopher Nolan movie on this list, this movie is as Christopher Nolan as it gets. The way it plays with time is so great and builds on the tension of each scene. Some movies have a great concept but fail to expand upon it. This move succeeds where those movies failed. Action packed, emotion filled, and mind bending. What more can you ask for?",
+  "posterImage": "../images/movies/In/In Poster.jpg",
+  "wideImage": "../images/movies/In/In Wide.jpg"
+},
+{
+  "id": "11MO38",
+  "title": "Mission Impossible: Fallout",
+  "ranking": 6,
+  "rating": "8.8/10",
+  "review": "Action is to this movie, as comedy is to The Other Guys. If you red my review for that movie, I mention that every scene is so funny and then it goes into the next, even funnier, scene. This movie does not hold back when it comes to the action. Every single scene is incredible action that leaves you on the edge of your seat. So you are basically going to have to watch this whole show from the edge of your seat.",
+  "posterImage": "../images/movies/MIF/MIF Poster.jpg",
+  "wideImage": "../images/movies/MIF/MIF Wide.jpg"
+},
+{
+  "id": "11MO39",
+  "title": "Hot Rod",
+  "ranking": 7,
+  "rating": "8.4/10",
+  "review": "This humor isn't for everyone. I will acknowledge that. But it is definitely for me. Andy Samberg is hilarious and he plays Rod so perfectly. Every actor seemed to know the assignment when it came to this movie. Nobody tried to take it too seriously. One of the most quotable movies for me as well! So dumb, but so good!",
+  "posterImage": "../images/movies/HR/HR Poster.jpg",
+  "wideImage": "../images/movies/HR/HR Wide.jpg"
+},
+{
+  "id": "11MO40",
+  "title": "Remember the Titans",
+  "ranking": 8,
+  "rating": "8.4/10",
+  "review": "The best sports movie of all time. I love Denzel Washington. He is very strong willed as the coach, but you also see his soft side throughout the movie. All the football scenes are fun as well. The introduction of Sunshine is so iconic and so hilarious. I love that it realistically showed how racism was. I don't love movies that try to suggest racism is just as bad today as it was back then. But I definitely recognize that back then, it was pretty bad, and this movie portrays that perfectly.",
+  "posterImage": "../images/movies/RTT/RTT Poster.jpg",
+  "wideImage": "../images/movies/RTT/RTT Wide.jpg"
+},
+{
+  "id": "11MO41",
+  "title": "Dan In Real Life",
+  "ranking": 9,
+  "rating": "8.2/10",
+  "review": "This is the most low-key movie on my list. I just love Steve Carrell and this is my favorite of his movies! The romance is great, and the way that it feeds into the humor is so perfect. I love that his daughter is always talking about love and how she knew she loved her boyfriend after just a few days. He completely doesn't believe her, and then proceeds to fall in love with a woman in just a few days. He is a ‘love expert' that is realizing that love is much more complex than he ever thought.",
+  "posterImage": "../images/movies/DIRL/DIRL Poster.jpg",
+  "wideImage": "../images/movies/DIRL/DIRL Wide.jpg"
+},
+{
+  "id": "11MO42",
+  "title": "Megamind",
+  "ranking": 10,
+  "rating": "8.2/10",
+  "review": "I had to put an animated movie on here, and I knew this would be the one. Will Ferrell is one of my favorite comedians and he knocks this one out of the park! The quick witted humor in this movie is so great, and makes it so much more rewatch able than most other animated movies. The ‘villain becoming a good guy' storyline has been done so many times before, but I think this movie does it the best!",
+  "posterImage": "../images/movies/Me/Me Poster.jpg",
+  "wideImage": "../images/movies/Me/Me Wide.jpg"
+}
+]
